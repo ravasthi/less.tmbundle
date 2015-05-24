@@ -38,7 +38,7 @@ puts "Compiled CSS to '#{target}'"</string>
 		</dict>
 	</array>
 	<key>scope</key>
-	<string>source.css.less</string>
+	<string>source.less</string>
 	<key>uuid</key>
 	<string>78788223-5E5E-434E-98BE-17BCDF600611</string>
 	<key>version</key>

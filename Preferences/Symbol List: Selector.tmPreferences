@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Symbol List: Selector</string>
 	<key>scope</key>
-	<string>source.less meta.selector, source.less meta.at-rule.media</string>
+	<string>source.less meta.selector, source.less meta.at-rule</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
